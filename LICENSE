@@ -1,21 +1,100 @@
-MIT License
+Copyright 2022 David Dao and Ghislain Fourny
 
-Copyright (c) 2022 David Dao
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+    http://www.apache.org/licenses/LICENSE-2.0
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+=======================================================================
+Formula subcomponents:
+
+The Rumble project contains subcomponents with separate copyright
+notices and license terms. Your use of the source code for the these
+subcomponents is subject to the terms and conditions of the following
+licenses.
+
+
+========================================================================
+For RumbleDB
+========================================================================
+
+See license/LICENSE.txt on RumbleDB/rumble
+
+========================================================================
+For ANTLR 4.7
+========================================================================
+
+See license/LICENSE-ANTLR.txt on RumbleDB/rumble
+
+========================================================================
+For Apache Commons Text 1.6
+========================================================================
+
+See license/LICENSE-Apache-Commons-Text.txt on RumbleDB/rumble
+
+========================================================================
+For Apache Commons Lang 1.6
+========================================================================
+
+See license/LICENSE-Apache-Commons-Lang.txt on RumbleDB/rumble
+
+========================================================================
+For Apache Commons IO 2.11.0
+========================================================================
+
+See license/LICENSE-Apache-Commons-IO.txt on RumbleDB/rumble
+
+========================================================================
+For Apache HttpClient
+========================================================================
+
+See license/LICENSE-Apache-HttpClient.txt on RumbleDB/rumble
+
+========================================================================
+For gson
+========================================================================
+
+See license/LICENSE-gson.txt on RumbleDB/rumble
+
+========================================================================
+For JLine 3.11.0
+========================================================================
+
+See license/LICENSE-JLine.txt on RumbleDB/rumble
+
+========================================================================
+For Joda time
+========================================================================
+
+See license/LICENSE-Joda-time.txt on RumbleDB/rumble
+
+========================================================================
+For Kryo
+========================================================================
+
+See license/LICENSE-Kryo.txt on RumbleDB/rumble
+
+========================================================================
+For Laurelin
+========================================================================
+
+See license/LICENSE-Laurelin.txt on RumbleDB/rumble
+
+========================================================================
+For Spark 2.4.4
+========================================================================
+
+See license/LICENSE-Spark.txt on RumbleDB/rumble
+
+========================================================================
+For the XQuery 3.1 grammar (Loren Cahlander/xqdoc)
+========================================================================
+
+See license/LICENSE-xqdoc.txt on RumbleDB/rumble
