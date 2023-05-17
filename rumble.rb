@@ -2,7 +2,7 @@ class Rumble < Formula
   desc "RumbleDB 1.21.0 'Hawthorn blossom' for Apache Spark"
   homepage "https://rumbledb.org/"
   url "https://github.com/RumbleDB/rumble/releases/download/v1.21.0/rumbledb-brew-1.21.0.zip"
-  sha256 "cf4d56d9001a38dffbcb1d4d0aec0f10b0a9e346cccda9e6c072a1d1fc414c38"
+  sha256 "f621f703e37858d213defde5412e069a12edccde7eb2b330388cb86f0bb1ac43"
   license "MIT"
 
   depends_on "apache-spark"
