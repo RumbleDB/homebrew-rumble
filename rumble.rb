@@ -6,6 +6,7 @@ class Rumble < Formula
   license "MIT"
 
   depends_on "apache-spark"
+  depends_on "openjdk@11"
 
   def install
     lib.install Dir["*"]
