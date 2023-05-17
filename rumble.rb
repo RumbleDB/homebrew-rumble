@@ -1,8 +1,8 @@
 class Rumble < Formula
-  desc "RumbleDB 1.18.0 'Scarlet Ixora' for Apache Spark"
+  desc "RumbleDB 1.21.0 'Hawthorn blossom' for Apache Spark"
   homepage "https://rumbledb.org/"
-  url "https://github.com/RumbleDB/rumble/releases/download/v1.19.0/rumbledb-brew-1.19.0.zip"
-  sha256 "5a648f259d5b7cbc8597f26e8e9a38f31acdfc9e34284b1f0712897ae0b2715c"
+  url "https://github.com/RumbleDB/rumble/releases/download/v1.21.0/rumbledb-brew-1.21.0.zip"
+  sha256 "cf4d56d9001a38dffbcb1d4d0aec0f10b0a9e346cccda9e6c072a1d1fc414c38"
   license "MIT"
 
   depends_on "apache-spark"
